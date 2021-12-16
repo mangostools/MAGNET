@@ -4,7 +4,7 @@
   <description asmv2:iconFile="tools3.ico" asmv2:publisher="Magnet" asmv2:product="Magnet" xmlns="urn:schemas-microsoft-com:asm.v1" />
   <application />
   <entryPoint>
-    <assemblyIdentity name="Magnet" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
+    <assemblyIdentity name="Magnet" version="3.1.0.0" language="neutral" processorArchitecture="msil" />
     <commandLine file="Magnet.exe" parameters="" />
   </entryPoint>
   <co.v1:useManifestForTrust xmlns="urn:schemas-microsoft-com:asm.v1" />
@@ -44,14 +44,14 @@
     </dependentAssembly>
   </dependency>
   <dependency>
-    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magnet.exe" size="1811896">
-      <assemblyIdentity name="Magnet" version="3.0.0.0" language="neutral" processorArchitecture="msil" />
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="Magnet.exe" size="1753528">
+      <assemblyIdentity name="Magnet" version="3.1.0.0" language="neutral" processorArchitecture="msil" />
       <hash>
         <dsig:Transforms>
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>jhelZV5PV+4fF+aTkhNgjsQ9sYWPE7UtIhRyo9rNpBk=</dsig:DigestValue>
+        <dsig:DigestValue>sLOXaj8VPikunPyegqwzB6LWZFijrPQyyyJfa3YpwCA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
